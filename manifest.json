@@ -1,6 +1,6 @@
 {
-  "version": "0.14.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.14.0/PSShop-Setup-0.14.0.exe",
-  "sha256": "1bcd141b19469be49c854010d37de0dd01d9981475151c69b8389de7953b2611",
-  "notes": "Publish 0.14.0"
+  "version": "0.14.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.14.1/PSShop-Setup-0.14.1.exe",
+  "sha256": "a84656db7c3e919f250c9bf0ea644418390614e3339599ccd6895ec689f50897",
+  "notes": "Publish: UTF-8 output on Windows (Arabic release notes)"
 }
