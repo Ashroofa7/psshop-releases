@@ -1,6 +1,6 @@
 {
-  "version": "0.22.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.22.0/PSShop-Setup-0.22.0.exe",
-  "sha256": "34fabd964684b8b28e37c853297ebd063d9dbca290968d60a1e0b6d2563e31b3",
-  "notes": "0.22.0: power cuts not charged, automatic backups and restore"
+  "version": "0.22.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.22.1/PSShop-Setup-0.22.1.exe",
+  "sha256": "3d41023874af6461b72ca9cff4ef6c7a5f6ba1162bf9407bc8335f187d7d9342",
+  "notes": "0.22.1: owner/manager can work without a shift"
 }
