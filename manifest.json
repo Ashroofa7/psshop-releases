@@ -1,6 +1,6 @@
 {
-  "version": "0.18.2",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.18.2/PSShop-Setup-0.18.2.exe",
-  "sha256": "2fedcdbc99ec77e4d24e1a73f549d32828111f9373db499c3e1708e103379147",
-  "notes": "0.18.2: edit Telegram recipients and user names"
+  "version": "0.19.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.19.0/PSShop-Setup-0.19.0.exe",
+  "sha256": "4af65710fe8a52ae22ead97786a19ec4e4a936c2e8a12e99ed810f988678660d",
+  "notes": "0.19.0: varieties sold from one stock item, owner-managed expense types"
 }
