@@ -1,6 +1,6 @@
 {
-  "version": "0.16.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.16.0/PSShop-Setup-0.16.0.exe",
-  "sha256": "bb13b1aaefe381dc73312dc376fb6ef60476c9119098e6ec5fc3578e52cd3130",
-  "notes": "0.16.0: products batch save with one password in inventory, collapsible admin, maximized window without password saving/autofill"
+  "version": "0.17.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.17.0/PSShop-Setup-0.17.0.exe",
+  "sha256": "d09d7d7692b8bbee1bb3282763af3a5fd963816a7ec379e81a689e1928ad553d",
+  "notes": "0.17.0: PS5/PS4 groups, one password while working, admin keeps place, accordion"
 }
