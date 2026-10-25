@@ -1,6 +1,6 @@
 {
-  "version": "0.14.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.14.1/PSShop-Setup-0.14.1.exe",
-  "sha256": "a84656db7c3e919f250c9bf0ea644418390614e3339599ccd6895ec689f50897",
-  "notes": "Publish: UTF-8 output on Windows (Arabic release notes)"
+  "version": "0.15.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.15.0/PSShop-Setup-0.15.0.exe",
+  "sha256": "af946f973739573a54c6632fc91829538ae545a98ee5055b3c514be4ebd5c50f",
+  "notes": "0.15.0: tables with customer name, add devices by type and count"
 }
