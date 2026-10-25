@@ -1,6 +1,6 @@
 {
-  "version": "0.20.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.20.0/PSShop-Setup-0.20.0.exe",
-  "sha256": "051d8fb99ef968731a46c4a4b0e7dbf2f12803a7dd6bf74afe6c8de4242ad1db",
-  "notes": "0.20.0: drag to order devices and tables"
+  "version": "0.20.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.20.1/PSShop-Setup-0.20.1.exe",
+  "sha256": "a144c6f1729d54fcc8a6ef5bbee00b2367824a14c87654e741dee2f11f8a6c0e",
+  "notes": "0.20.1: home in three columns, smaller cards, tables column"
 }
