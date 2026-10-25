@@ -1,6 +1,6 @@
 {
-  "version": "0.17.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.17.0/PSShop-Setup-0.17.0.exe",
-  "sha256": "d09d7d7692b8bbee1bb3282763af3a5fd963816a7ec379e81a689e1928ad553d",
-  "notes": "0.17.0: PS5/PS4 groups, one password while working, admin keeps place, accordion"
+  "version": "0.18.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.18.0/PSShop-Setup-0.18.0.exe",
+  "sha256": "dfffe42801b32a4d8c4603f433b6768ce5d1921c6fccbd69630f21a057ddd713",
+  "notes": "0.18.0: stock accordion, icons and colours, naming control, quick sale label"
 }
