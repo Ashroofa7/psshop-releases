@@ -1,6 +1,6 @@
 {
-  "version": "0.23.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.23.0/PSShop-Setup-0.23.0.exe",
-  "sha256": "abee8a1f30596defddef06f5fbad75b890150a0d70d0352464bd14e57a2405ee",
-  "notes": "0.23.0: printed receipts for consoles and tables"
+  "version": "0.23.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.23.1/PSShop-Setup-0.23.1.exe",
+  "sha256": "55048b1fa5c6ecaa514f7108513f232997a81bd0f950933b726e21066d034a21",
+  "notes": "0.23.1: draft receipt for an open console or table"
 }
