@@ -1,6 +1,6 @@
 {
-  "version": "0.19.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.19.1/PSShop-Setup-0.19.1.exe",
-  "sha256": "9050f8d5eb8659cc5f4719e91da1e8b71876b0e7cd1e56f7ed3f24aa961c3b8b",
-  "notes": "0.19.1: delete devices/tables/products, keeping their history in reports"
+  "version": "0.20.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.20.0/PSShop-Setup-0.20.0.exe",
+  "sha256": "051d8fb99ef968731a46c4a4b0e7dbf2f12803a7dd6bf74afe6c8de4242ad1db",
+  "notes": "0.20.0: drag to order devices and tables"
 }
