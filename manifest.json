@@ -1,6 +1,6 @@
 {
-  "version": "0.21.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.21.0/PSShop-Setup-0.21.0.exe",
-  "sha256": "3a4b48a116334e4801a144aa8b8786959d30058c98bbe99541edf0b57b5eb202",
-  "notes": "0.21.0: activity feed on the home screen"
+  "version": "0.22.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.22.0/PSShop-Setup-0.22.0.exe",
+  "sha256": "34fabd964684b8b28e37c853297ebd063d9dbca290968d60a1e0b6d2563e31b3",
+  "notes": "0.22.0: power cuts not charged, automatic backups and restore"
 }
