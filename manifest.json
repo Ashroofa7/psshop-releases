@@ -1,6 +1,6 @@
 {
-  "version": "0.20.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.20.1/PSShop-Setup-0.20.1.exe",
-  "sha256": "a144c6f1729d54fcc8a6ef5bbee00b2367824a14c87654e741dee2f11f8a6c0e",
-  "notes": "0.20.1: home in three columns, smaller cards, tables column"
+  "version": "0.21.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.21.0/PSShop-Setup-0.21.0.exe",
+  "sha256": "3a4b48a116334e4801a144aa8b8786959d30058c98bbe99541edf0b57b5eb202",
+  "notes": "0.21.0: activity feed on the home screen"
 }
