@@ -1,6 +1,6 @@
 {
-  "version": "0.15.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.15.1/PSShop-Setup-0.15.1.exe",
-  "sha256": "a2bfaa85c2cc101496ff0d9a3ef65130533950ee46911e4c3acaaf924a41e727",
-  "notes": "Build check: verify truststore from the app log"
+  "version": "0.16.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.16.0/PSShop-Setup-0.16.0.exe",
+  "sha256": "bb13b1aaefe381dc73312dc376fb6ef60476c9119098e6ec5fc3578e52cd3130",
+  "notes": "0.16.0: products batch save with one password in inventory, collapsible admin, maximized window without password saving/autofill"
 }
