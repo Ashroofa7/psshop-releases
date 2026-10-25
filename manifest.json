@@ -1,6 +1,6 @@
 {
-  "version": "0.19.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.19.0/PSShop-Setup-0.19.0.exe",
-  "sha256": "4af65710fe8a52ae22ead97786a19ec4e4a936c2e8a12e99ed810f988678660d",
-  "notes": "0.19.0: varieties sold from one stock item, owner-managed expense types"
+  "version": "0.19.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.19.1/PSShop-Setup-0.19.1.exe",
+  "sha256": "9050f8d5eb8659cc5f4719e91da1e8b71876b0e7cd1e56f7ed3f24aa961c3b8b",
+  "notes": "0.19.1: delete devices/tables/products, keeping their history in reports"
 }
