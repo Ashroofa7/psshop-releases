@@ -1,6 +1,6 @@
 {
-  "version": "0.22.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.22.1/PSShop-Setup-0.22.1.exe",
-  "sha256": "3d41023874af6461b72ca9cff4ef6c7a5f6ba1162bf9407bc8335f187d7d9342",
-  "notes": "0.22.1: owner/manager can work without a shift"
+  "version": "0.22.2",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.22.2/PSShop-Setup-0.22.2.exe",
+  "sha256": "f47f81db6a310ba077d9c58cf056ed9e072cbaecc2f79bafd6dc82102272bf49",
+  "notes": "0.22.2: simpler products editor (details row)"
 }
