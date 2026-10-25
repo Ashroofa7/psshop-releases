@@ -1,6 +1,6 @@
 {
-  "version": "0.18.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.18.0/PSShop-Setup-0.18.0.exe",
-  "sha256": "dfffe42801b32a4d8c4603f433b6768ce5d1921c6fccbd69630f21a057ddd713",
-  "notes": "0.18.0: stock accordion, icons and colours, naming control, quick sale label"
+  "version": "0.18.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.18.1/PSShop-Setup-0.18.1.exe",
+  "sha256": "87d14ec3ea2b14b9916874ea00ec1c416ac43900751d038ebd139c07543d2896",
+  "notes": "0.18.1: remove walk-in sale button"
 }
