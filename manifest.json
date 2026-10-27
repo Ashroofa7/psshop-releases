@@ -1,6 +1,6 @@
 {
-  "version": "0.23.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.23.1/PSShop-Setup-0.23.1.exe",
-  "sha256": "55048b1fa5c6ecaa514f7108513f232997a81bd0f950933b726e21066d034a21",
-  "notes": "0.23.1: draft receipt for an open console or table"
+  "version": "0.24.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.24.0/PSShop-Setup-0.24.0.exe",
+  "sha256": "9997f7622b0f1ab4f687b94426ae0ef7fd235c4de656e73339ab41176b8ddf9f",
+  "notes": "0.24.0: drinks menus with tabs, mandatory receipt after checkout, sell into negative stock"
 }
