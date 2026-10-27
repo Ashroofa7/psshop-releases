@@ -1,6 +1,6 @@
 {
-  "version": "0.24.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.24.0/PSShop-Setup-0.24.0.exe",
-  "sha256": "9997f7622b0f1ab4f687b94426ae0ef7fd235c4de656e73339ab41176b8ddf9f",
-  "notes": "0.24.0: drinks menus with tabs, mandatory receipt after checkout, sell into negative stock"
+  "version": "0.25.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.25.0/PSShop-Setup-0.25.0.exe",
+  "sha256": "3f08a9f77414c605b9f35c3b58137872eebcbd4b6a209f6e851f10cb6b3161fb",
+  "notes": "0.25.0: expenses paid from a pocket (asked at shift close), stock items in other-expense, no cash/insta in expenses"
 }
