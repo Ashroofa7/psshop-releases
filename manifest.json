@@ -1,6 +1,6 @@
 {
-  "version": "0.25.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.25.0/PSShop-Setup-0.25.0.exe",
-  "sha256": "3f08a9f77414c605b9f35c3b58137872eebcbd4b6a209f6e851f10cb6b3161fb",
-  "notes": "0.25.0: expenses paid from a pocket (asked at shift close), stock items in other-expense, no cash/insta in expenses"
+  "version": "0.25.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.25.1/PSShop-Setup-0.25.1.exe",
+  "sha256": "54a554576795b40af45573dec7c2971308acc96edf047c3b91e66ab9495fe68c",
+  "notes": "0.25.1: home screen fits the window, columns scroll inside"
 }
