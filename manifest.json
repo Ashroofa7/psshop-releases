@@ -1,6 +1,6 @@
 {
-  "version": "0.27.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.27.1/PSShop-Setup-0.27.1.exe",
-  "sha256": "df7fd3c1e252e5c8922125896f59ba4dc05f81a3ee067fc2b1f5d3cf54dcaca7",
-  "notes": "0.27.1: salary on 30 days, 31-day month pays a day more"
+  "version": "0.27.2",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.27.2/PSShop-Setup-0.27.2.exe",
+  "sha256": "b5b9f751d7be5a418fc304453010d51609e3edcb331bec5b842fcd26b6d06b84",
+  "notes": "0.27.2: readable Telegram reports — dates, shift names, one item per line"
 }
