@@ -1,6 +1,6 @@
 {
-  "version": "0.28.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.28.1/PSShop-Setup-0.28.1.exe",
-  "sha256": "bd16cab5b9c733c5fab8ce9ee158d6eefaec2656a6b4831bec7280e056ecfe50",
-  "notes": "0.28.1: daily report — InstaPay, wallet, net, drawer at closing"
+  "version": "0.28.2",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.28.2/PSShop-Setup-0.28.2.exe",
+  "sha256": "4d823bc9d61cce43fa54a113a38748e09b6387d4c551003ec77eaf3c133838b1",
+  "notes": "0.28.2: report expenses broken down, expected drawer per shift"
 }
