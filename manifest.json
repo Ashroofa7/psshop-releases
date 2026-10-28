@@ -1,6 +1,6 @@
 {
-  "version": "0.28.2",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.28.2/PSShop-Setup-0.28.2.exe",
-  "sha256": "4d823bc9d61cce43fa54a113a38748e09b6387d4c551003ec77eaf3c133838b1",
-  "notes": "0.28.2: report expenses broken down, expected drawer per shift"
+  "version": "0.29.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.29.0/PSShop-Setup-0.29.0.exe",
+  "sha256": "0790a374bd5c998fbb93ced9c56a6b73e2e8e5a06626e16f36a4f35956c703e1",
+  "notes": "0.29.0: daily closing by time range, reminders, forgotten-shift takeover, second shop closing page"
 }
