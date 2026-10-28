@@ -1,6 +1,6 @@
 {
-  "version": "0.30.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.30.0/PSShop-Setup-0.30.0.exe",
-  "sha256": "64b1580366b022440b79a2006ca12c46785fdc61fc8e9af6fbb8b327426f075d",
-  "notes": "0.30.0: the program opens in its own window (WebView2)"
+  "version": "0.30.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.30.1/PSShop-Setup-0.30.1.exe",
+  "sha256": "626f797c190539097d60d3eb643f91b8414bd752046c81e1108c3493ec29db6a",
+  "notes": "0.30.1: find the Tailscale address reliably on Windows"
 }
