@@ -1,6 +1,6 @@
 {
-  "version": "0.32.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.32.1/PSShop-Setup-0.32.1.exe",
-  "sha256": "0399c54f82d848790bf0947e546af2ac6cc6a5632dbe55b85ffd8f54f5ae7c2b",
-  "notes": "0.32.1: drag a running device onto another to move, swap or merge"
+  "version": "0.33.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.33.0/PSShop-Setup-0.33.0.exe",
+  "sha256": "af5fe7b3ed1068576fb65076551e24255fec3ea7ef9c5d3601843e17a7a112c4",
+  "notes": "0.33.0: live backup change detection from the database; failing tests reported by the build"
 }
