@@ -1,6 +1,6 @@
 {
-  "version": "0.28.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.28.0/PSShop-Setup-0.28.0.exe",
-  "sha256": "799f1bb20ed1c3a6783c60178552fbeb18c39212292c0ebdc92c13a270d5fcd7",
-  "notes": "0.28.0: expenses page as tiles"
+  "version": "0.28.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.28.1/PSShop-Setup-0.28.1.exe",
+  "sha256": "bd16cab5b9c733c5fab8ce9ee158d6eefaec2656a6b4831bec7280e056ecfe50",
+  "notes": "0.28.1: daily report — InstaPay, wallet, net, drawer at closing"
 }
