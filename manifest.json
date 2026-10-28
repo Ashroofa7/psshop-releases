@@ -1,6 +1,6 @@
 {
-  "version": "0.29.2",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.29.2/PSShop-Setup-0.29.2.exe",
-  "sha256": "0bd0b7248bb86fae7a832b53731d27972a82d635299cbbe964247bdc33f99338",
-  "notes": "0.29.2: employees see their salary on Telegram only"
+  "version": "0.29.3",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.29.3/PSShop-Setup-0.29.3.exe",
+  "sha256": "ae94ee4e025323f7c012a5c0139e2c00ad8d1ac0a6928a520c22e6023a25397c",
+  "notes": "0.29.3: find Edge in more places; Chrome/Brave app window when Edge is missing"
 }
