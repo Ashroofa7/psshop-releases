@@ -1,6 +1,6 @@
 {
-  "version": "0.29.3",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.29.3/PSShop-Setup-0.29.3.exe",
-  "sha256": "ae94ee4e025323f7c012a5c0139e2c00ad8d1ac0a6928a520c22e6023a25397c",
-  "notes": "0.29.3: find Edge in more places; Chrome/Brave app window when Edge is missing"
+  "version": "0.30.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.30.0/PSShop-Setup-0.30.0.exe",
+  "sha256": "64b1580366b022440b79a2006ca12c46785fdc61fc8e9af6fbb8b327426f075d",
+  "notes": "0.30.0: the program opens in its own window (WebView2)"
 }
