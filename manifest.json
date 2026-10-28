@@ -1,6 +1,6 @@
 {
-  "version": "0.29.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.29.1/PSShop-Setup-0.29.1.exe",
-  "sha256": "5aef3b226f972bbc2b7d5339752ca84ce2b09ea0fe6712240353f0df0eb21a37",
-  "notes": "0.29.1: owner/manager without a shift; user chip menu in the top bar"
+  "version": "0.29.2",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.29.2/PSShop-Setup-0.29.2.exe",
+  "sha256": "0bd0b7248bb86fae7a832b53731d27972a82d635299cbbe964247bdc33f99338",
+  "notes": "0.29.2: employees see their salary on Telegram only"
 }
