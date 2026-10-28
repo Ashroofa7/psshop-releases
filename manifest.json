@@ -1,6 +1,6 @@
 {
-  "version": "0.32.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.32.0/PSShop-Setup-0.32.0.exe",
-  "sha256": "75855e5627a16bde235afa1b2e4780c84ec1ea2e42c3159ae075fadd1ccd67fe",
-  "notes": "0.32.0: move a session, swap two devices, merge a device's bill into another"
+  "version": "0.32.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.32.1/PSShop-Setup-0.32.1.exe",
+  "sha256": "0399c54f82d848790bf0947e546af2ac6cc6a5632dbe55b85ffd8f54f5ae7c2b",
+  "notes": "0.32.1: drag a running device onto another to move, swap or merge"
 }
