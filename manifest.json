@@ -1,6 +1,6 @@
 {
-  "version": "0.25.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.25.1/PSShop-Setup-0.25.1.exe",
-  "sha256": "54a554576795b40af45573dec7c2971308acc96edf047c3b91e66ab9495fe68c",
-  "notes": "0.25.1: home screen fits the window, columns scroll inside"
+  "version": "0.26.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.26.0/PSShop-Setup-0.26.0.exe",
+  "sha256": "c43aa11e66a0e846521691d5e15f4da9459801fe22a999347957997470ee164e",
+  "notes": "0.26.0: monthly salaries — withdrawals from the notebook, month-end pay from outside, PIN self-view"
 }
