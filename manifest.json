@@ -1,6 +1,6 @@
 {
-  "version": "0.27.2",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.27.2/PSShop-Setup-0.27.2.exe",
-  "sha256": "b5b9f751d7be5a418fc304453010d51609e3edcb331bec5b842fcd26b6d06b84",
-  "notes": "0.27.2: readable Telegram reports — dates, shift names, one item per line"
+  "version": "0.28.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.28.0/PSShop-Setup-0.28.0.exe",
+  "sha256": "799f1bb20ed1c3a6783c60178552fbeb18c39212292c0ebdc92c13a270d5fcd7",
+  "notes": "0.28.0: expenses page as tiles"
 }
