@@ -1,6 +1,6 @@
 {
-  "version": "0.26.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.26.0/PSShop-Setup-0.26.0.exe",
-  "sha256": "c43aa11e66a0e846521691d5e15f4da9459801fe22a999347957997470ee164e",
-  "notes": "0.26.0: monthly salaries — withdrawals from the notebook, month-end pay from outside, PIN self-view"
+  "version": "0.27.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.27.0/PSShop-Setup-0.27.0.exe",
+  "sha256": "2e653b545b8adee6ff8a5db1a1c3fd8774f2c3ac8ae5b477d259f6ac5e49f86e",
+  "notes": "0.27.0: unpaid days off (bot requests with owner buttons), employees on Telegram, simple قبض"
 }
