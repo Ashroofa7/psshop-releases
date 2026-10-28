@@ -1,6 +1,6 @@
 {
-  "version": "0.30.3",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.30.3/PSShop-Setup-0.30.3.exe",
-  "sha256": "855538e01a7b9c35dca62d1bc9a983f14fca4ec83dbb1a0e54b48616dc34833e",
-  "notes": "0.30.3: loading screen while updating, visible install progress"
+  "version": "0.31.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.31.0/PSShop-Setup-0.31.0.exe",
+  "sha256": "c2e4cbe41c3bada8793269288e8b88473d2fba846f58630a60e3faabcc732de8",
+  "notes": "0.31.0: subscriptions (signed codes, warning, grace, lock, stop list) and a compiled, unreadable program"
 }
