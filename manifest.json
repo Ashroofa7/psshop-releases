@@ -1,6 +1,6 @@
 {
-  "version": "0.31.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.31.0/PSShop-Setup-0.31.0.exe",
-  "sha256": "c2e4cbe41c3bada8793269288e8b88473d2fba846f58630a60e3faabcc732de8",
-  "notes": "0.31.0: subscriptions (signed codes, warning, grace, lock, stop list) and a compiled, unreadable program"
+  "version": "0.32.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.32.0/PSShop-Setup-0.32.0.exe",
+  "sha256": "75855e5627a16bde235afa1b2e4780c84ec1ea2e42c3159ae075fadd1ccd67fe",
+  "notes": "0.32.0: move a session, swap two devices, merge a device's bill into another"
 }
