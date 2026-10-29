@@ -1,6 +1,6 @@
 {
-  "version": "0.33.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.33.0/PSShop-Setup-0.33.0.exe",
-  "sha256": "af5fe7b3ed1068576fb65076551e24255fec3ea7ef9c5d3601843e17a7a112c4",
-  "notes": "0.33.0: live backup change detection from the database; failing tests reported by the build"
+  "version": "0.34.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.34.0/PSShop-Setup-0.34.0.exe",
+  "sha256": "13637f3e79d4d53ffa026b31f603e093a4abb10ab4a22fe628605d1f651a9890",
+  "notes": "0.34.0: English for the whole shop (screens, errors, receipt)"
 }
