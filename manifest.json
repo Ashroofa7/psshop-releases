@@ -1,6 +1,6 @@
 {
-  "version": "0.34.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.34.0/PSShop-Setup-0.34.0.exe",
-  "sha256": "13637f3e79d4d53ffa026b31f603e093a4abb10ab4a22fe628605d1f651a9890",
-  "notes": "0.34.0: English for the whole shop (screens, errors, receipt)"
+  "version": "0.35.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.35.0/PSShop-Setup-0.35.0.exe",
+  "sha256": "3b42e0c9c66a78f8e100f49cea2ad4b026c36301fbd8c03005afd58e56bf162f",
+  "notes": "0.35.0: offers by time and day, per-minute billing rounded up to 5, grouped monthly expenses, period reports with Excel, shortage/overage wording"
 }
