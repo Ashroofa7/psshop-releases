@@ -1,6 +1,6 @@
 {
-  "version": "0.36.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.36.0/PSShop-Setup-0.36.0.exe",
-  "sha256": "3a02877b733ec632a88d9132e20e627671c3df321cd01713fc9452c5e718564e",
-  "notes": "Tests: the receipt print test uses a fake printer (on Windows it printed for real)"
+  "version": "0.37.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.37.0/PSShop-Setup-0.37.0.exe",
+  "sha256": "8039415697eb22c0fc1c741a1ac9902e1753d94ee436955eb79eaffbb550ebc2",
+  "notes": "0.37.0: full-width big screens, take drinks off (stock/waste) + manager alert + weekly waste report, confirm «اتدفعوا», right-aligned reports with icons"
 }
