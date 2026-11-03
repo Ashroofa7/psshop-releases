@@ -1,6 +1,6 @@
 {
-  "version": "0.38.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.38.0/PSShop-Setup-0.38.0.exe",
-  "sha256": "7b414cf1aa85eeaabe89e22ca071f2e6d0962c364228c7050942b77e28880e6c",
-  "notes": "0.38.0: leave requests, leave changes and «قبّضت الكل» go to the manager on Telegram"
+  "version": "0.38.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.38.1/PSShop-Setup-0.38.1.exe",
+  "sha256": "9fc6dec182b492fb970d4e607608afbe8e1fd9a5ef0e007a757797f0b069a217",
+  "notes": "0.38.1: the second shop logs the cashier out after closing the shift (like the main shop)"
 }
