@@ -1,6 +1,6 @@
 {
-  "version": "0.37.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.37.0/PSShop-Setup-0.37.0.exe",
-  "sha256": "8039415697eb22c0fc1c741a1ac9902e1753d94ee436955eb79eaffbb550ebc2",
-  "notes": "0.37.0: full-width big screens, take drinks off (stock/waste) + manager alert + weekly waste report, confirm «اتدفعوا», right-aligned reports with icons"
+  "version": "0.38.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.38.0/PSShop-Setup-0.38.0.exe",
+  "sha256": "7b414cf1aa85eeaabe89e22ca071f2e6d0962c364228c7050942b77e28880e6c",
+  "notes": "0.38.0: leave requests, leave changes and «قبّضت الكل» go to the manager on Telegram"
 }
