@@ -1,6 +1,6 @@
 {
-  "version": "0.41.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.41.0/PSShop-Setup-0.41.0.exe",
-  "sha256": "6f96ce980ae276e62f2f577cfc253cc5c5bbdac5c931c99856799d0d0ba038f6",
-  "notes": "0.41.0: tasks, «سلّمت الأوردر؟», the owner's table"
+  "version": "0.42.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.42.0/PSShop-Setup-0.42.0.exe",
+  "sha256": "b3739e2054e6d1d231f515a665efe48179b1a3f859946ec77a17d6c65471d762",
+  "notes": "0.42.0: customer orders from the console's QR code"
 }
