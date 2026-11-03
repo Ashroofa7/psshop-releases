@@ -1,6 +1,6 @@
 {
-  "version": "0.42.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.42.0/PSShop-Setup-0.42.0.exe",
-  "sha256": "b3739e2054e6d1d231f515a665efe48179b1a3f859946ec77a17d6c65471d762",
-  "notes": "0.42.0: customer orders from the console's QR code"
+  "version": "0.43.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.43.0/PSShop-Setup-0.43.0.exe",
+  "sha256": "7b372506c5a759b2b07208cf5a1f27f39bffda510b77eb3f941b9b0722a55dd2",
+  "notes": "0.43.0: requests other than drinks from the QR page («🎮 بدّلولي الدراع»)"
 }
