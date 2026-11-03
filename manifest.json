@@ -1,6 +1,6 @@
 {
-  "version": "0.39.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.39.0/PSShop-Setup-0.39.0.exe",
-  "sha256": "6251168be7ac817940abe34f192666e4d45f7b3b3787e7db136c02392818695d",
-  "notes": "0.39.0: discount and return on play, daily report apart from shift closings, expense menus, users per shop"
+  "version": "0.40.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.40.0/PSShop-Setup-0.40.0.exe",
+  "sha256": "6779c4c14eb3450de289847a94e4d62e18ac5eded591eea4eeb0bb4ff35324fd",
+  "notes": "0.40.0: fridge and hot count when a shift opens, packs and loose pieces, editing an addition"
 }
