@@ -1,6 +1,6 @@
 {
-  "version": "0.38.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.38.1/PSShop-Setup-0.38.1.exe",
-  "sha256": "9fc6dec182b492fb970d4e607608afbe8e1fd9a5ef0e007a757797f0b069a217",
-  "notes": "0.38.1: the second shop logs the cashier out after closing the shift (like the main shop)"
+  "version": "0.39.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.39.0/PSShop-Setup-0.39.0.exe",
+  "sha256": "6251168be7ac817940abe34f192666e4d45f7b3b3787e7db136c02392818695d",
+  "notes": "0.39.0: discount and return on play, daily report apart from shift closings, expense menus, users per shop"
 }
