@@ -1,6 +1,6 @@
 {
-  "version": "0.43.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.43.0/PSShop-Setup-0.43.0.exe",
-  "sha256": "7b372506c5a759b2b07208cf5a1f27f39bffda510b77eb3f941b9b0722a55dd2",
-  "notes": "0.43.0: requests other than drinks from the QR page («🎮 بدّلولي الدراع»)"
+  "version": "0.44.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.44.0/PSShop-Setup-0.44.0.exe",
+  "sha256": "74c0de0d4e348ef1045288091974f64f3b0317290f294e0ebd373deb1b72a49a",
+  "notes": "0.44.0: set the stock quantity (owner / manager), stock rights, alerts for move / waste / count"
 }
