@@ -1,6 +1,6 @@
 {
-  "version": "0.48.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.48.1/PSShop-Setup-0.48.1.exe",
-  "sha256": "023d4fa5d336ab4745ec834236ff379abe140a33cc924d67e02ded5c1d7fdaaa",
-  "notes": "0.48.1: employees told the tasks left, counts for the cashier, the main shop's name in messages, second shop expenses follow the main order"
+  "version": "0.49.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.49.0/PSShop-Setup-0.49.0.exe",
+  "sha256": "119b9e18e2954b8c9f68a0298ce25346ee0e80b23f89d654411717d940f242ca",
+  "notes": "0.49.0: controllers count at every shift and the daily closing (repairs, alerts), WiFi cards and the PC table, bookings, low-stock popup and buy alert, activity log, faults from the program and the staff bot"
 }
