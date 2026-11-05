@@ -1,6 +1,6 @@
 {
-  "version": "0.45.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.45.0/PSShop-Setup-0.45.0.exe",
-  "sha256": "b3171608a90838434e51098f6dfe73cfffa9c8b3fb84a3bb47848b67c88d0b97",
-  "notes": "0.45.0: expenses paid from the revenue the manager holds, his monthly balance and handovers, per-recipient Telegram messages"
+  "version": "0.46.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.46.0/PSShop-Setup-0.46.0.exe",
+  "sha256": "4463040dc6ee562162c432c6e7d32243d6a9775266c304d9eb625191e46ea3d9",
+  "notes": "0.46.0: a leave says who works instead — a colleague (asked first, his day counts twice) or someone from outside (pay edited by the manager, taken off the day's closing)"
 }
