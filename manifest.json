@@ -1,6 +1,6 @@
 {
-  "version": "0.48.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.48.0/PSShop-Setup-0.48.0.exe",
-  "sha256": "585e785353b33e2b853a444887566394794c0d6598abc2e27e0d250da7770eb6",
-  "notes": "0.48.0: task confirmations and day summary; arrange the expense tiles"
+  "version": "0.48.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.48.1/PSShop-Setup-0.48.1.exe",
+  "sha256": "023d4fa5d336ab4745ec834236ff379abe140a33cc924d67e02ded5c1d7fdaaa",
+  "notes": "0.48.1: employees told the tasks left, counts for the cashier, the main shop's name in messages, second shop expenses follow the main order"
 }
