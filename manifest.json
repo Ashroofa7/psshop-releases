@@ -1,6 +1,6 @@
 {
-  "version": "0.44.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.44.0/PSShop-Setup-0.44.0.exe",
-  "sha256": "74c0de0d4e348ef1045288091974f64f3b0317290f294e0ebd373deb1b72a49a",
-  "notes": "0.44.0: set the stock quantity (owner / manager), stock rights, alerts for move / waste / count"
+  "version": "0.44.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.44.1/PSShop-Setup-0.44.1.exe",
+  "sha256": "9c779c39a6b8d8eae8aea729d88e8d98593c33efb2985a61d9deb264a8f3abd7",
+  "notes": "0.44.1: daily report and shifts closing as two messages on resend and in the second shop"
 }
