@@ -1,6 +1,6 @@
 {
-  "version": "0.44.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.44.1/PSShop-Setup-0.44.1.exe",
-  "sha256": "9c779c39a6b8d8eae8aea729d88e8d98593c33efb2985a61d9deb264a8f3abd7",
-  "notes": "0.44.1: daily report and shifts closing as two messages on resend and in the second shop"
+  "version": "0.45.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.45.0/PSShop-Setup-0.45.0.exe",
+  "sha256": "b3171608a90838434e51098f6dfe73cfffa9c8b3fb84a3bb47848b67c88d0b97",
+  "notes": "0.45.0: expenses paid from the revenue the manager holds, his monthly balance and handovers, per-recipient Telegram messages"
 }
