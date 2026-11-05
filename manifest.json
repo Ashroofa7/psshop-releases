@@ -1,6 +1,6 @@
 {
-  "version": "0.46.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.46.0/PSShop-Setup-0.46.0.exe",
-  "sha256": "4463040dc6ee562162c432c6e7d32243d6a9775266c304d9eb625191e46ea3d9",
-  "notes": "0.46.0: a leave says who works instead — a colleague (asked first, his day counts twice) or someone from outside (pay edited by the manager, taken off the day's closing)"
+  "version": "0.47.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.47.0/PSShop-Setup-0.47.0.exe",
+  "sha256": "7073ccfefc545f8f21748342fe599a69aed9cf633fd36ce3e462433af97d64f1",
+  "notes": "0.47.0: salary deductions (quarter day to 3 days, with a reason) from Telegram and the program, employee told, cancellable"
 }
