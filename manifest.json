@@ -1,6 +1,6 @@
 {
-  "version": "0.47.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.47.1/PSShop-Setup-0.47.1.exe",
-  "sha256": "1bf289b8b0f7545b8137d7b7793b6ea11de2bf0c77647961c22400d8aaf7e043",
-  "notes": "0.47.1: an employee who left still shows in the months he worked, marked (مشي)"
+  "version": "0.48.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.48.0/PSShop-Setup-0.48.0.exe",
+  "sha256": "585e785353b33e2b853a444887566394794c0d6598abc2e27e0d250da7770eb6",
+  "notes": "0.48.0: task confirmations and day summary; arrange the expense tiles"
 }
