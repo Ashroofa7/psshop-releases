@@ -1,6 +1,6 @@
 {
-  "version": "0.50.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.50.1/PSShop-Setup-0.50.1.exe",
-  "sha256": "124839938b73bbec7181bdc1126ef754cfc75ecf7ade04ed3ba299592e33089a",
-  "notes": "0.50.1: editing salary withdrawals in the second shop too (its cashier before the closing, the manager any time, from Telegram as well)"
+  "version": "0.51.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.51.0/PSShop-Setup-0.51.0.exe",
+  "sha256": "9c0ecb01b5358c919c4e899954e5c63b50ddf545e4603aacca1d03c5916254b6",
+  "notes": "0.51.0: «🧹 بداية جديدة» (wipe the trial's movements, keep the setup, backup first, owner password + «امسح») and typing by hand: a past day's closing, an old salary withdrawal, what an employee had / owed before the program"
 }
