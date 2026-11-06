@@ -1,6 +1,6 @@
 {
-  "version": "0.50.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.50.0/PSShop-Setup-0.50.0.exe",
-  "sha256": "694b0447302813b260f7d75a6fe88f0d096aaaf2c62e47fefb4f8fb447d6c6e6",
-  "notes": "0.50.0: edit or cancel a salary withdrawal (cashier: his open shift with his password; manager: any shift, also from Telegram), watching mode (a match or a film, a fixed price per person)"
+  "version": "0.50.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.50.1/PSShop-Setup-0.50.1.exe",
+  "sha256": "124839938b73bbec7181bdc1126ef754cfc75ecf7ade04ed3ba299592e33089a",
+  "notes": "0.50.1: editing salary withdrawals in the second shop too (its cashier before the closing, the manager any time, from Telegram as well)"
 }
