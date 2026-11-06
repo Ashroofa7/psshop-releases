@@ -1,6 +1,6 @@
 {
-  "version": "0.49.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.49.0/PSShop-Setup-0.49.0.exe",
-  "sha256": "119b9e18e2954b8c9f68a0298ce25346ee0e80b23f89d654411717d940f242ca",
-  "notes": "0.49.0: controllers count at every shift and the daily closing (repairs, alerts), WiFi cards and the PC table, bookings, low-stock popup and buy alert, activity log, faults from the program and the staff bot"
+  "version": "0.50.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.50.0/PSShop-Setup-0.50.0.exe",
+  "sha256": "694b0447302813b260f7d75a6fe88f0d096aaaf2c62e47fefb4f8fb447d6c6e6",
+  "notes": "0.50.0: edit or cancel a salary withdrawal (cashier: his open shift with his password; manager: any shift, also from Telegram), watching mode (a match or a film, a fixed price per person)"
 }
