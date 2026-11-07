@@ -1,6 +1,6 @@
 {
-  "version": "0.54.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.54.0/PSShop-Setup-0.54.0.exe",
-  "sha256": "2aabb149fcd1b15e62ed1cdcc80a99fe16f77bb2d22a16beff787cfeac04f4b7",
-  "notes": "0.54.0: leave ranges, «إذن», alerts table, delivery-check fix, 15-minute power gap"
+  "version": "0.55.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.55.0/PSShop-Setup-0.55.0.exe",
+  "sha256": "2b91274a9539044e8037152eaf0f859971ae504a99958b85e52e3fa21e027671",
+  "notes": "0.55.0: open -> timed counts from the start of the session, 1.5h/3h choices with time left, set or add by money"
 }
