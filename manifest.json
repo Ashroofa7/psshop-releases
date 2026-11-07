@@ -1,6 +1,6 @@
 {
-  "version": "0.51.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.51.0/PSShop-Setup-0.51.0.exe",
-  "sha256": "9c0ecb01b5358c919c4e899954e5c63b50ddf545e4603aacca1d03c5916254b6",
-  "notes": "0.51.0: «🧹 بداية جديدة» (wipe the trial's movements, keep the setup, backup first, owner password + «امسح») and typing by hand: a past day's closing, an old salary withdrawal, what an employee had / owed before the program"
+  "version": "0.52.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.52.0/PSShop-Setup-0.52.0.exe",
+  "sha256": "35a38077bd5a19a3ef6fa0331febc02228740cc4fd4361a2b59d417007c4c36e",
+  "notes": "0.52.0: Nov 7 fixes — one payment line per click and a locked button, «ادفع واقفل» closes at the amount shown, more/less than the bill asked, write off old debts, steady timers and a faster screen, the Windows clock set back is caught, +1 on drinks, no Enter accidents in counts and closing, count skips items with nothing anywhere + «زوّد التلاجة», PC table without a name, owner's table with a password and «عملتها» closes it, empty table without a receipt, cards line always"
 }
