@@ -1,6 +1,6 @@
 {
-  "version": "0.53.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.53.0/PSShop-Setup-0.53.0.exe",
-  "sha256": "c570597b805d06149800b185f64f1fdb5a1cb1a7b42b010ffa5f36814225835a",
-  "notes": "0.53.0: revenue when a device / table closes (time paid in advance when paid), payments on a playing device handed to the next shift, the shift's five numbers on the expenses page behind the cashier's password, controllers in repair on the home, pay part cash part InstaPay/wallet, every shift with its numbers in «تقفيل الشيفتات», the type fixed for a time range"
+  "version": "0.54.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.54.0/PSShop-Setup-0.54.0.exe",
+  "sha256": "2aabb149fcd1b15e62ed1cdcc80a99fe16f77bb2d22a16beff787cfeac04f4b7",
+  "notes": "0.54.0: leave ranges, «إذن», alerts table, delivery-check fix, 15-minute power gap"
 }
