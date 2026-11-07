@@ -1,6 +1,6 @@
 {
-  "version": "0.52.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.52.0/PSShop-Setup-0.52.0.exe",
-  "sha256": "35a38077bd5a19a3ef6fa0331febc02228740cc4fd4361a2b59d417007c4c36e",
-  "notes": "0.52.0: Nov 7 fixes — one payment line per click and a locked button, «ادفع واقفل» closes at the amount shown, more/less than the bill asked, write off old debts, steady timers and a faster screen, the Windows clock set back is caught, +1 on drinks, no Enter accidents in counts and closing, count skips items with nothing anywhere + «زوّد التلاجة», PC table without a name, owner's table with a password and «عملتها» closes it, empty table without a receipt, cards line always"
+  "version": "0.53.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.53.0/PSShop-Setup-0.53.0.exe",
+  "sha256": "c570597b805d06149800b185f64f1fdb5a1cb1a7b42b010ffa5f36814225835a",
+  "notes": "0.53.0: revenue when a device / table closes (time paid in advance when paid), payments on a playing device handed to the next shift, the shift's five numbers on the expenses page behind the cashier's password, controllers in repair on the home, pay part cash part InstaPay/wallet, every shift with its numbers in «تقفيل الشيفتات», the type fixed for a time range"
 }
