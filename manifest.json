@@ -1,6 +1,6 @@
 {
-  "version": "0.56.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.56.0/PSShop-Setup-0.56.0.exe",
-  "sha256": "f854057b3c8bafb437ef0c63ca6405092eb51289780473899b9b36666b5220df",
-  "notes": "0.56.0: report filters and hours, list view, cashier's own shift sessions, «بالمقدار», counts set the stock, month stock table, daily report reshaped + «ℹ️ معلومات اليوم»"
+  "version": "0.57.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.57.0/PSShop-Setup-0.57.0.exe",
+  "sha256": "7f39eb2007af8f06ac147f45dd7fef7df5d376938cad7dbfb410ea048edd7a40",
+  "notes": "0.57.0: temporary accounts for outside substitutes, Telegram groups (found by themselves, only what is ticked), «✂️ خصومات الموظفين»"
 }
