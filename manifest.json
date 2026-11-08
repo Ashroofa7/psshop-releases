@@ -1,6 +1,6 @@
 {
-  "version": "0.57.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.57.0/PSShop-Setup-0.57.0.exe",
-  "sha256": "7f39eb2007af8f06ac147f45dd7fef7df5d376938cad7dbfb410ea048edd7a40",
-  "notes": "0.57.0: temporary accounts for outside substitutes, Telegram groups (found by themselves, only what is ticked), «✂️ خصومات الموظفين»"
+  "version": "0.57.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.57.1/PSShop-Setup-0.57.1.exe",
+  "sha256": "1e9162beb6d54806342c7175ac3fdc4afefbfb16df9b393aa225934c26bba447",
+  "notes": "0.57.1: when the time ends — «💵 دفع دلوقتي» / «📒 سيبها مديونية» / «⏱ زوّد وقت» (starts again, the ended bill carried onto it)"
 }
