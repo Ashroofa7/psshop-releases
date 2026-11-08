@@ -1,6 +1,6 @@
 {
-  "version": "0.55.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.55.0/PSShop-Setup-0.55.0.exe",
-  "sha256": "2b91274a9539044e8037152eaf0f859971ae504a99958b85e52e3fa21e027671",
-  "notes": "0.55.0: open -> timed counts from the start of the session, 1.5h/3h choices with time left, set or add by money"
+  "version": "0.56.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.56.0/PSShop-Setup-0.56.0.exe",
+  "sha256": "f854057b3c8bafb437ef0c63ca6405092eb51289780473899b9b36666b5220df",
+  "notes": "0.56.0: report filters and hours, list view, cashier's own shift sessions, «بالمقدار», counts set the stock, month stock table, daily report reshaped + «ℹ️ معلومات اليوم»"
 }
