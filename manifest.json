@@ -1,6 +1,6 @@
 {
-  "version": "0.57.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.57.1/PSShop-Setup-0.57.1.exe",
-  "sha256": "1e9162beb6d54806342c7175ac3fdc4afefbfb16df9b393aa225934c26bba447",
-  "notes": "0.57.1: when the time ends — «💵 دفع دلوقتي» / «📒 سيبها مديونية» / «⏱ زوّد وقت» (starts again, the ended bill carried onto it)"
+  "version": "0.57.2",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.57.2/PSShop-Setup-0.57.2.exe",
+  "sha256": "b279203dc5a6cd28604fa20bb2614097bff313f4a1db70c90b28d96709beea6b",
+  "notes": "0.57.2: debt reminders — the count on «المديونيات», a popup 5 minutes after a debt, the close asks about the shift's debts; the shift name in withdrawal messages"
 }
