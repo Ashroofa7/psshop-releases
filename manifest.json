@@ -1,6 +1,6 @@
 {
-  "version": "0.58.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.58.0/PSShop-Setup-0.58.0.exe",
-  "sha256": "c90619818088552b1e468a10af9c3566e7556b45301fd4d2b9017f70f5a82d3c",
-  "notes": "0.58.0: «📇 البدلاء» (one fixed account each, open only on his days for his own shift), «بديل» on Telegram, substitute <-> employee, unlock / new password from Telegram, «🐞 الأعطال»"
+  "version": "0.58.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.58.1/PSShop-Setup-0.58.1.exe",
+  "sha256": "ceedd84302bb0ecfecbd752d10621741f1123975df15ee3ef21b54e3640abf85",
+  "notes": "0.58.1: a new substitute's username is his name (a used name is refused); «💵 سلفة للبديل» up to his coming pay, taken off on the day; the owner / manager fix an advance, a day's pay, or cancel a day"
 }
