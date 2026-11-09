@@ -1,6 +1,6 @@
 {
-  "version": "0.59.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.59.0/PSShop-Setup-0.59.0.exe",
-  "sha256": "d472db7abec61cb0daa740553a8e2f45ab011b217b18da8be9ba5c6bb4980edb",
-  "notes": "0.59.0: weekly schedules + exceptions, attendance PIN / no-phone, lateness tiers + overtime rate, substitute cover clarity in payroll"
+  "version": "0.60.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.60.0/PSShop-Setup-0.60.0.exe",
+  "sha256": "7de35e5aa944b0f73fddb41a4911230c3908273421eecd53506f4121d6915b0c",
+  "notes": "0.60.0: attendance — WiFi link bound to the phone, PIN confirmed by the cashier's password (+ owner message / Telegram when no shift), screen reminders, broken-phone exception, attendance page"
 }
