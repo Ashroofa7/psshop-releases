@@ -1,6 +1,6 @@
 {
-  "version": "0.61.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.61.1/PSShop-Setup-0.61.1.exe",
-  "sha256": "1c6d32b1117ef59f4a41fcdec20b8ca0cc2da992b4b9a3004df0acfa627f49e8",
-  "notes": "0.61.1: bot menu with keyboard buttons for employees, substitutes and managers; unlock / change password understood in more words; owner/manager recipients linked to their account"
+  "version": "0.61.2",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.61.2/PSShop-Setup-0.61.2.exe",
+  "sha256": "659fd9683fe8700f30845cddd05591a08109513eb97e85b7a43ed45ffe4256dc",
+  "notes": "0.61.2: two quieter sound volumes with test buttons, «opened by mistake» device correction with owner report, owner/manager act for an employee on Telegram, long-pause alerts at night"
 }
