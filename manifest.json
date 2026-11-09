@@ -1,6 +1,6 @@
 {
-  "version": "0.57.3",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.57.3/PSShop-Setup-0.57.3.exe",
-  "sha256": "0b63eab329864895db7f0d6f02c37f2041b770d36b28b5b97268a1354ad06abd",
-  "notes": "0.57.3: no second payment from a stale device window; «جلسة 13» and hours in the sessions report; long tables scroll inside everywhere"
+  "version": "0.57.4",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.57.4/PSShop-Setup-0.57.4.exe",
+  "sha256": "578cd910b657bbef6bd20c773893633f9c401ff571ba3b162df11f30a4e0fd3e",
+  "notes": "0.57.4: the cashier closes with a drawer shortage (recorded, the manager told at once); «الأصناف والأسعار» as a list with its buttons fixed and new items on top"
 }
