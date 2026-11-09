@@ -1,6 +1,6 @@
 {
-  "version": "0.57.2",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.57.2/PSShop-Setup-0.57.2.exe",
-  "sha256": "b279203dc5a6cd28604fa20bb2614097bff313f4a1db70c90b28d96709beea6b",
-  "notes": "0.57.2: debt reminders — the count on «المديونيات», a popup 5 minutes after a debt, the close asks about the shift's debts; the shift name in withdrawal messages"
+  "version": "0.57.3",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.57.3/PSShop-Setup-0.57.3.exe",
+  "sha256": "0b63eab329864895db7f0d6f02c37f2041b770d36b28b5b97268a1354ad06abd",
+  "notes": "0.57.3: no second payment from a stale device window; «جلسة 13» and hours in the sessions report; long tables scroll inside everywhere"
 }
