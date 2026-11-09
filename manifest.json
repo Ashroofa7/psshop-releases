@@ -1,6 +1,6 @@
 {
-  "version": "0.58.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.58.1/PSShop-Setup-0.58.1.exe",
-  "sha256": "ceedd84302bb0ecfecbd752d10621741f1123975df15ee3ef21b54e3640abf85",
-  "notes": "0.58.1: a new substitute's username is his name (a used name is refused); «💵 سلفة للبديل» up to his coming pay, taken off on the day; the owner / manager fix an advance, a day's pay, or cancel a day"
+  "version": "0.59.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.59.0/PSShop-Setup-0.59.0.exe",
+  "sha256": "d472db7abec61cb0daa740553a8e2f45ab011b217b18da8be9ba5c6bb4980edb",
+  "notes": "0.59.0: weekly schedules + exceptions, attendance PIN / no-phone, lateness tiers + overtime rate, substitute cover clarity in payroll"
 }
