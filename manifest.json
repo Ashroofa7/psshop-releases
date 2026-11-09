@@ -1,6 +1,6 @@
 {
-  "version": "0.60.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.60.0/PSShop-Setup-0.60.0.exe",
-  "sha256": "7de35e5aa944b0f73fddb41a4911230c3908273421eecd53506f4121d6915b0c",
-  "notes": "0.60.0: attendance — WiFi link bound to the phone, PIN confirmed by the cashier's password (+ owner message / Telegram when no shift), screen reminders, broken-phone exception, attendance page"
+  "version": "0.61.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.61.0/PSShop-Setup-0.61.0.exe",
+  "sha256": "83b1873d15b0b5f67e0d5d41f3b25763bae70876a9962b26c699549de6bdf6b5",
+  "notes": "0.61.0: hand-over count together (bar locked, both PINs, closing = next opening), next-cashier-arrived button, advance requests on Telegram"
 }
