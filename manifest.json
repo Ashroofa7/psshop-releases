@@ -1,6 +1,6 @@
 {
-  "version": "0.61.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.61.0/PSShop-Setup-0.61.0.exe",
-  "sha256": "83b1873d15b0b5f67e0d5d41f3b25763bae70876a9962b26c699549de6bdf6b5",
-  "notes": "0.61.0: hand-over count together (bar locked, both PINs, closing = next opening), next-cashier-arrived button, advance requests on Telegram"
+  "version": "0.61.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.61.1/PSShop-Setup-0.61.1.exe",
+  "sha256": "1c6d32b1117ef59f4a41fcdec20b8ca0cc2da992b4b9a3004df0acfa627f49e8",
+  "notes": "0.61.1: bot menu with keyboard buttons for employees, substitutes and managers; unlock / change password understood in more words; owner/manager recipients linked to their account"
 }
