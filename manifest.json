@@ -1,6 +1,6 @@
 {
-  "version": "0.61.3",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.61.3/PSShop-Setup-0.61.3.exe",
-  "sha256": "6ee61f096f23522af8adde57613b975f097e4e54784492bf1d2817cda8262fd4",
-  "notes": "0.61.3: shift numbers as one clear equation (revenue + received, debts box, prior-shift advances not double counted), expenses list per shift, debts page details, fixed time-up dialog"
+  "version": "0.62.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.62.0/PSShop-Setup-0.62.0.exe",
+  "sha256": "7b9251e6258a24889a8a4f133fdf23dc675ebe0d72a72864dbc37180e07a85eb",
+  "notes": "0.62.0: lateness/absence deductions by tier with Telegram buttons, hand-over wait money, last-shift overtime (playing time only) after approval, «last shift» close, debts lines in the shift message"
 }
