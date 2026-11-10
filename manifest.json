@@ -1,6 +1,6 @@
 {
-  "version": "0.61.2",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.61.2/PSShop-Setup-0.61.2.exe",
-  "sha256": "659fd9683fe8700f30845cddd05591a08109513eb97e85b7a43ed45ffe4256dc",
-  "notes": "0.61.2: two quieter sound volumes with test buttons, «opened by mistake» device correction with owner report, owner/manager act for an employee on Telegram, long-pause alerts at night"
+  "version": "0.61.3",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.61.3/PSShop-Setup-0.61.3.exe",
+  "sha256": "6ee61f096f23522af8adde57613b975f097e4e54784492bf1d2817cda8262fd4",
+  "notes": "0.61.3: shift numbers as one clear equation (revenue + received, debts box, prior-shift advances not double counted), expenses list per shift, debts page details, fixed time-up dialog"
 }
