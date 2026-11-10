@@ -1,6 +1,6 @@
 {
-  "version": "0.62.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.62.1/PSShop-Setup-0.62.1.exe",
-  "sha256": "24f9b04d2328dd10859f85314dd96d86d465270b50c77c71001b34fd8b0f57d0",
-  "notes": "0.62.1: edit the minutes of a hand-over wait addition from Telegram"
+  "version": "0.63.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.63.0/PSShop-Setup-0.63.0.exe",
+  "sha256": "ca33778c6afa5a0ea052b272554049c6c06a4a85bf23c7aa08f849f9a2c1c445",
+  "notes": "0.63.0: broadcast to employees, PINs/passwords on Telegram (auto-deleted), delete user, account control from the bot, manager never answers about himself, money as stars, bot command list after updates"
 }
