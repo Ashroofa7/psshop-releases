@@ -1,6 +1,6 @@
 {
-  "version": "0.65.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.65.0/PSShop-Setup-0.65.0.exe",
-  "sha256": "6d872dad6cc065db9a57e4d6694aa9da93f20e4de705f8765dc3b6ad3d6a1403",
-  "notes": "0.65.0: bar counted at every shift close (hand-over counts kept), weekly/monthly shortage report with bar deductions, status message with this shift's numbers"
+  "version": "0.66.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.66.0/PSShop-Setup-0.66.0.exe",
+  "sha256": "0ccf713d764dec6d4b65b999479f20d003ca8e665a0a13b4229c04a3fad6e1e7",
+  "notes": "0.66.0: second-shop orders on the PC table (ready popup ringing until acknowledged), open-orders list, QR page tied to the session"
 }
