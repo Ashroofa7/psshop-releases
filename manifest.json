@@ -1,6 +1,6 @@
 {
-  "version": "0.62.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.62.0/PSShop-Setup-0.62.0.exe",
-  "sha256": "7b9251e6258a24889a8a4f133fdf23dc675ebe0d72a72864dbc37180e07a85eb",
-  "notes": "0.62.0: lateness/absence deductions by tier with Telegram buttons, hand-over wait money, last-shift overtime (playing time only) after approval, «last shift» close, debts lines in the shift message"
+  "version": "0.62.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.62.1/PSShop-Setup-0.62.1.exe",
+  "sha256": "24f9b04d2328dd10859f85314dd96d86d465270b50c77c71001b34fd8b0f57d0",
+  "notes": "0.62.1: edit the minutes of a hand-over wait addition from Telegram"
 }
