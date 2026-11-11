@@ -1,6 +1,6 @@
 {
-  "version": "0.71.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.71.0/PSShop-Setup-0.71.0.exe",
-  "sha256": "cbdca25c51bbbe7cb6687d1fa4c7a5f737d7cf365ecf75ca5f836f24774f20b5",
-  "notes": "0.71.0: stock out/low alerts, cashier shift reports, one-line table close, booking deposit, fixed faults hidden"
+  "version": "0.72.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.72.0/PSShop-Setup-0.72.0.exe",
+  "sha256": "c957640cf624775c6a6ed32bb2a56d7c5a5916e90a069785dbe51bdb713befa8",
+  "notes": "0.72.0: second item names per user, QR language toggle, PC table pay ask"
 }
