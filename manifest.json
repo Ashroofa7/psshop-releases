@@ -1,6 +1,6 @@
 {
-  "version": "0.70.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.70.0/PSShop-Setup-0.70.0.exe",
-  "sha256": "d2b62922eb7bf0c5cda0bab1c25352cf253696ed5fbac1c9c7247a40842ee4c7",
-  "notes": "0.70.0: whole-session report, items detail, nightly hot-section report"
+  "version": "0.71.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.71.0/PSShop-Setup-0.71.0.exe",
+  "sha256": "cbdca25c51bbbe7cb6687d1fa4c7a5f737d7cf365ecf75ca5f836f24774f20b5",
+  "notes": "0.71.0: stock out/low alerts, cashier shift reports, one-line table close, booking deposit, fixed faults hidden"
 }
