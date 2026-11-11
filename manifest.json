@@ -1,6 +1,6 @@
 {
-  "version": "0.66.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.66.0/PSShop-Setup-0.66.0.exe",
-  "sha256": "0ccf713d764dec6d4b65b999479f20d003ca8e665a0a13b4229c04a3fad6e1e7",
-  "notes": "0.66.0: second-shop orders on the PC table (ready popup ringing until acknowledged), open-orders list, QR page tied to the session"
+  "version": "0.67.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.67.0/PSShop-Setup-0.67.0.exe",
+  "sha256": "63a70d0848ffb11676b3c015cae5b2cac5dd491adbf6076a6c360472f4b5c3cf",
+  "notes": "0.67.0: pay drinks/cards first and time last, unpaid drinks on a console become a debt, one activity line per closed console, feed alignment"
 }
