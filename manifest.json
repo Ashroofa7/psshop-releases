@@ -1,6 +1,6 @@
 {
-  "version": "0.68.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.68.0/PSShop-Setup-0.68.0.exe",
-  "sha256": "c80dfdb34368829f78138736a516b473111348d5fd3e1871a174a74fe30b1451",
-  "notes": "0.68.0: second-shop order handover + payment at the main shop, split payment auto-fill, receipt in hours / whole pounds / one line per mode, debt collection says on whom"
+  "version": "0.69.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.69.0/PSShop-Setup-0.69.0.exe",
+  "sha256": "eec289f75966ad4806104c491249fea9c0575a3feb89dd2d152701ac5922e8d6",
+  "notes": "0.69.0: TVs (LG/Samsung) on/off with sessions, test & swap"
 }
