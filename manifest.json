@@ -1,6 +1,6 @@
 {
-  "version": "0.72.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.72.1/PSShop-Setup-0.72.1.exe",
-  "sha256": "363ee9327840bd03b505f14acf5b914bd157a0e2df1bd0dbd9e4cda31dc3553c",
-  "notes": "ci: build copies kept 1 day and never block publishing (Actions storage was full)"
+  "version": "0.73.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.73.0/PSShop-Setup-0.73.0.exe",
+  "sha256": "e3d2b485f56f27fa756af8e786aa22b6307371ed4029e8c64cfa44c9b901bec4",
+  "notes": "0.73.0: counts made right — opening count corrects stock and tells the closer, blind count option, receive tab, month count any day, 5-minute wrong open, backups by time, hand-over signer"
 }
