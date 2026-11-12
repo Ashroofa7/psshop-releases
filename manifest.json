@@ -1,6 +1,6 @@
 {
-  "version": "0.72.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.72.0/PSShop-Setup-0.72.0.exe",
-  "sha256": "c957640cf624775c6a6ed32bb2a56d7c5a5916e90a069785dbe51bdb713befa8",
-  "notes": "0.72.0: second item names per user, QR language toggle, PC table pay ask"
+  "version": "0.72.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.72.1/PSShop-Setup-0.72.1.exe",
+  "sha256": "363ee9327840bd03b505f14acf5b914bd157a0e2df1bd0dbd9e4cda31dc3553c",
+  "notes": "ci: build copies kept 1 day and never block publishing (Actions storage was full)"
 }
