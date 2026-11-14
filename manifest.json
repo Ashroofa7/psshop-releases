@@ -1,6 +1,6 @@
 {
-  "version": "0.74.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.74.0/PSShop-Setup-0.74.0.exe",
-  "sha256": "b677db576eb690af0abeda797996bc37749e98329f5b48d43cae4a0825f1e31b",
-  "notes": "0.74.0: hand-over together — controllers and drawer counted with the fridge, the shift closes and the next one opens by itself on his account; «مش موافقين — أقفل لوحدي»; a Telegram message goes out once; the owner's table window closes with it"
+  "version": "0.75.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.75.0/PSShop-Setup-0.75.0.exe",
+  "sha256": "ceb5c90a3af28794098af228c9761e137558ff9eea4aeb496cb7dcbe465b0b4b",
+  "notes": "0.75.0: «📨 مين يستلم إيه» — employees as targets (by name, all, working now, the cashier), the group's sections (Telegram Topics) made from the program or by hand, a copy of the employees' messages; «📉 تقرير العجز» with the fridge"
 }
