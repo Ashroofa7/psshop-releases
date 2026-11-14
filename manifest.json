@@ -1,6 +1,6 @@
 {
-  "version": "0.75.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.75.0/PSShop-Setup-0.75.0.exe",
-  "sha256": "ceb5c90a3af28794098af228c9761e137558ff9eea4aeb496cb7dcbe465b0b4b",
-  "notes": "0.75.0: «📨 مين يستلم إيه» — employees as targets (by name, all, working now, the cashier), the group's sections (Telegram Topics) made from the program or by hand, a copy of the employees' messages; «📉 تقرير العجز» with the fridge"
+  "version": "0.75.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.75.1/PSShop-Setup-0.75.1.exe",
+  "sha256": "02aa46305d1d28ab3ea888d3675767937cc8c6958f89fa5096ab726f862eebf8",
+  "notes": "0.75.1: test waits for its thread (Windows can't delete an open database)"
 }
