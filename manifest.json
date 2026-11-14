@@ -1,6 +1,6 @@
 {
-  "version": "0.75.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.75.1/PSShop-Setup-0.75.1.exe",
-  "sha256": "02aa46305d1d28ab3ea888d3675767937cc8c6958f89fa5096ab726f862eebf8",
-  "notes": "0.75.1: test waits for its thread (Windows can't delete an open database)"
+  "version": "0.76.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.76.0/PSShop-Setup-0.76.0.exe",
+  "sha256": "f181c68dccdaf5593100bf288118e1ecb6d8b105ab10b77240dc8d407ea01eac",
+  "notes": "0.76.0: «💸 سحب» with the owner's fee tiers, screenshots of every InstaPay / wallet movement and of the electricity (screen + Telegram), live photo sections with separators, photos with each shift close and the daily report, every shift closing in its own message, «📉 فرق الجرد» at once — both shops"
 }
