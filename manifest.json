@@ -1,6 +1,6 @@
 {
-  "version": "0.76.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.76.0/PSShop-Setup-0.76.0.exe",
-  "sha256": "f181c68dccdaf5593100bf288118e1ecb6d8b105ab10b77240dc8d407ea01eac",
-  "notes": "0.76.0: «💸 سحب» with the owner's fee tiers, screenshots of every InstaPay / wallet movement and of the electricity (screen + Telegram), live photo sections with separators, photos with each shift close and the daily report, every shift closing in its own message, «📉 فرق الجرد» at once — both shops"
+  "version": "0.76.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.76.1/PSShop-Setup-0.76.1.exe",
+  "sha256": "7ae1229724a8548e59f1b00e034db65115d134f4144efb31413740c388621ba8",
+  "notes": "0.76.1: after both sign the hand-over, move to the new cashier's account at once (the summary was redrawn as the old close page)"
 }
