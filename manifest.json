@@ -1,6 +1,6 @@
 {
-  "version": "0.73.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.73.0/PSShop-Setup-0.73.0.exe",
-  "sha256": "e3d2b485f56f27fa756af8e786aa22b6307371ed4029e8c64cfa44c9b901bec4",
-  "notes": "0.73.0: counts made right — opening count corrects stock and tells the closer, blind count option, receive tab, month count any day, 5-minute wrong open, backups by time, hand-over signer"
+  "version": "0.74.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.74.0/PSShop-Setup-0.74.0.exe",
+  "sha256": "b677db576eb690af0abeda797996bc37749e98329f5b48d43cae4a0825f1e31b",
+  "notes": "0.74.0: hand-over together — controllers and drawer counted with the fridge, the shift closes and the next one opens by itself on his account; «مش موافقين — أقفل لوحدي»; a Telegram message goes out once; the owner's table window closes with it"
 }
