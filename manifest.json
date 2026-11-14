@@ -1,6 +1,6 @@
 {
-  "version": "0.76.1",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.76.1/PSShop-Setup-0.76.1.exe",
-  "sha256": "7ae1229724a8548e59f1b00e034db65115d134f4144efb31413740c388621ba8",
-  "notes": "0.76.1: after both sign the hand-over, move to the new cashier's account at once (the summary was redrawn as the old close page)"
+  "version": "0.77.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.77.0/PSShop-Setup-0.77.0.exe",
+  "sha256": "8566526133ad0de463281c4f4e56a0f22784885edfecd0c334688f774ee0a020",
+  "notes": "0.77.0: PS5 and PS4 controllers counted each on its own (totals, counts, on-device, repairs, messages, reports)"
 }
