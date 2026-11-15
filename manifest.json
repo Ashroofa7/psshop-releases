@@ -1,6 +1,6 @@
 {
-  "version": "0.77.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.77.0/PSShop-Setup-0.77.0.exe",
-  "sha256": "8566526133ad0de463281c4f4e56a0f22784885edfecd0c334688f774ee0a020",
-  "notes": "0.77.0: PS5 and PS4 controllers counted each on its own (totals, counts, on-device, repairs, messages, reports)"
+  "version": "0.78.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.78.0/PSShop-Setup-0.78.0.exe",
+  "sha256": "d959c73dfcc3626f335e8c94b7385e2d41b8f2f095d9cf86cc1f589370c9e97f",
+  "notes": "0.78.0: paused devices — pause time on the card, the screen asks why after 5 minutes, Telegram after 10 with no reason (all day)"
 }
