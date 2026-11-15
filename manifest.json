@@ -1,6 +1,6 @@
 {
-  "version": "0.78.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.78.0/PSShop-Setup-0.78.0.exe",
-  "sha256": "d959c73dfcc3626f335e8c94b7385e2d41b8f2f095d9cf86cc1f589370c9e97f",
-  "notes": "0.78.0: paused devices — pause time on the card, the screen asks why after 5 minutes, Telegram after 10 with no reason (all day)"
+  "version": "0.79.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.79.0/PSShop-Setup-0.79.0.exe",
+  "sha256": "083241435eee6ee77f8bdaa16aba14d64fd9da9d5aef2d2762f4d0b97b9bd906",
+  "notes": "0.79.0: shortage split on the cashiers who worked, ➕/➖ from Telegram, monthly per person, «🔁 سدّدت عجز» (goods only), and private-only owner/manager messages as routable kinds (group too)"
 }
