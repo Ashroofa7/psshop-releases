@@ -1,6 +1,6 @@
 {
-  "version": "0.80.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.80.0/PSShop-Setup-0.80.0.exe",
-  "sha256": "8f389e068084cdbf2a6d410beceb80e7027c6273388f9e49918da03827266d55",
-  "notes": "0.80.0: closing count keeps sold-out items, one-tap drinks, «تحت الحساب», drinks on the device card, no .00, Telegram new command cancels, debts: full pay window + receipt + «⏱ زوّد وقت», no table/zero receipts, new receipt top, «➕ زيادة» for any employee"
+  "version": "0.81.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.81.0/PSShop-Setup-0.81.0.exe",
+  "sha256": "ea7f19d261ab0aa5114675a8b8e49d24442adbbe6c8d95892f196003837ff30c",
+  "notes": "0.81.0: an employee works the other shop for a day with his own account («🔀»), separate InstaPay / wallet cash-out fee tiers, the day's photos in one album with the daily report, part of the controllers back from repair («رجع كام؟»)"
 }
