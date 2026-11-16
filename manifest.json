@@ -1,6 +1,6 @@
 {
-  "version": "0.79.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.79.0/PSShop-Setup-0.79.0.exe",
-  "sha256": "083241435eee6ee77f8bdaa16aba14d64fd9da9d5aef2d2762f4d0b97b9bd906",
-  "notes": "0.79.0: shortage split on the cashiers who worked, ➕/➖ from Telegram, monthly per person, «🔁 سدّدت عجز» (goods only), and private-only owner/manager messages as routable kinds (group too)"
+  "version": "0.80.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.80.0/PSShop-Setup-0.80.0.exe",
+  "sha256": "8f389e068084cdbf2a6d410beceb80e7027c6273388f9e49918da03827266d55",
+  "notes": "0.80.0: closing count keeps sold-out items, one-tap drinks, «تحت الحساب», drinks on the device card, no .00, Telegram new command cancels, debts: full pay window + receipt + «⏱ زوّد وقت», no table/zero receipts, new receipt top, «➕ زيادة» for any employee"
 }
