@@ -1,6 +1,6 @@
 {
-  "version": "0.81.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.81.0/PSShop-Setup-0.81.0.exe",
-  "sha256": "ea7f19d261ab0aa5114675a8b8e49d24442adbbe6c8d95892f196003837ff30c",
-  "notes": "0.81.0: an employee works the other shop for a day with his own account («🔀»), separate InstaPay / wallet cash-out fee tiers, the day's photos in one album with the daily report, part of the controllers back from repair («رجع كام؟»)"
+  "version": "0.84.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.84.0/PSShop-Setup-0.84.0.exe",
+  "sha256": "9144c8403a88bb0f4a09a574aefdb44bb2b38841fbf9b1f79bed85e8df603acb",
+  "notes": "0.84.0: the WiFi card is made and printed by the cards app with the device / table on it (its plans; free on the owner's table); internet use per device without a card — a Telegram alert past 3 GB a day with 🐢 slow / ⛔ cut / ✅ buttons, «📶 النت», and a coverage line in the daily report. Also 0.83 (shift close times) and 0.82 (day review)."
 }
