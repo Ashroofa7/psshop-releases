@@ -1,6 +1,6 @@
 {
-  "version": "0.88.0",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.88.0/1-Zone-Setup-0.88.0.exe",
-  "sha256": "9824da169b790eec8b1777424e12b30e1df23379b06b447c123a77f5505fa318",
-  "notes": "0.88.0: the owner / manager can fix or delete any sale of the month (a device's time, drinks and payment, a table, an expense) with a reason - the drawer, the shift, the reports and the stock follow; deleted ones are kept in a delete log and can be brought back; Telegram alert. Also 0.87: WiFi cards (how many at once, move, bring back, a used card stays) and 0.85/0.86: the program is now called 1-Zone."
+  "version": "0.89.1",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.89.1/1-Zone-Setup-0.89.1.exe",
+  "sha256": "302de0808ef431ab767f3a432e170d30f551eccff39561b1cb96f8b6142539cc",
+  "notes": "0.89.1: Telegram - commands and buttons used inside a group topic now answer in the same topic instead of the private chat.\n0.89.0: the owner / manager can fix or delete any sale of the month - a device's time, drinks, payment, device (repriced), discount and shift; a table; an expense; a debt and its collection; a booking's deposit; a cash-out - with a reason; the drawer, the shift, the reports and the stock follow; deleted ones are kept in a delete log and can be brought back. Also 0.87: WiFi cards and 0.85/0.86: the program is now called 1-Zone."
 }
