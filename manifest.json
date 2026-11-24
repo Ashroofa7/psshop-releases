@@ -1,6 +1,6 @@
 {
-  "version": "0.89.2",
-  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.89.2/1-Zone-Setup-0.89.2.exe",
-  "sha256": "618efe52e2e0a2fe2a1195f0692695918f744b3b43aa07ff27dcea5c8056d0cb",
-  "notes": "0.89.2: WiFi - put an already printed card on a device or table by its code (checked with Wi-Code first).\n0.89.1: Telegram - commands and buttons used inside a group topic now answer in the same topic instead of the private chat.\n0.89.0: the owner / manager can fix or delete any sale of the month - a device's time, drinks, payment, device (repriced), discount and shift; a table; an expense; a debt and its collection; a booking's deposit; a cash-out - with a reason; the drawer, the shift, the reports and the stock follow; deleted ones are kept in a delete log and can be brought back. Also 0.87: WiFi cards and 0.85/0.86: the program is now called 1-Zone."
+  "version": "0.90.0",
+  "url": "https://github.com/Ashroofa7/psshop-releases/releases/download/v0.90.0/1-Zone-Setup-0.90.0.exe",
+  "sha256": "ec687d2db4d58ad1fa0523579e37069097b00999355069ad09e862310e597198",
+  "notes": "0.90.0: fixes - the WiFi-cards link (both apps used the same port), one InstaPay screenshot per bill, a permission's start time, the day's InstaPay list in the daily report, the day's last close waits until every device and table is closed, and a closed table can't be paid twice.\n0.89.2: WiFi - put an already printed card on a device or table by its code (checked with Wi-Code first).\n0.89.1: Telegram - commands and buttons used inside a group topic now answer in the same topic instead of the private chat.\n0.89.0: the owner / manager can fix or delete any sale of the month - a device's time, drinks, payment, device (repriced), discount and shift; a table; an expense; a debt and its collection; a booking's deposit; a cash-out - with a reason; the drawer, the shift, the reports and the stock follow; deleted ones are kept in a delete log and can be brought back. Also 0.87: WiFi cards and 0.85/0.86: the program is now called 1-Zone."
 }
